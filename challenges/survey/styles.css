@@ -1,0 +1,20 @@
+body {
+  margin: auto;
+  width: 100%;
+  max-width: 300px;
+}
+
+.container,
+#number-label,
+#number,
+#input {
+  margin-top: 20px
+}
+
+#name-label,
+#name,
+#email-label,
+#email,
+#notes {
+  width: 100%;
+}
