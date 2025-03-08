@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  main {
+    font-family: sans-serif;
+  }
+  
+  #title {
+    padding: 10px;
+    text-align: center;
+    background-color: #eee
+  }
+  
+  figcaption {
+    color: #555;
+    text-align: center;
+  }
+  
+  article {
+    padding: 20px;
+    background-color: #eee;
+  }
+  
+  article p {
+    margin: auto;
+    padding: 5px;
+    width: 500px;
+    text-align: justify;
+  }
+  
+  #learn-more {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%
+  }
+  
+  #image {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
